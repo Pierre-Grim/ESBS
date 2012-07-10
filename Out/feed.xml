@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Pierre Ruyter</title>
+	<link>http://www.biloucorp.com/BCW/Grim/</link>
+	<description>Publications libres sur des domaines variés</description>
+	<item>
+		<title>Un titre au hasard</title>
+		<link>un-titre-au-hasard.html</link>
+		<description>Un essai de truc</description>
+	</item>
+</channel>
+</rss>
